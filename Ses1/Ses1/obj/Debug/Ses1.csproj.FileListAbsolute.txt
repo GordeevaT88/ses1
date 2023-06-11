@@ -1,0 +1,13 @@
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\bin\Debug\Ses1.exe.config
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\bin\Debug\Ses1.exe
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\bin\Debug\Ses1.pdb
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.csproj.AssemblyReference.cache
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.Form1.resources
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.Properties.Resources.resources
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.csproj.GenerateResource.cache
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.csproj.CoreCompileInputs.cache
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.exe
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.pdb
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.Menu.resources
+C:\Users\ПК-6-85\source\repos\Ses1\Ses1\obj\Debug\Ses1.Gosti.resources
